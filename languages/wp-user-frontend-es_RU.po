@@ -351,19 +351,19 @@ msgstr "Texto enriquecido Teeny"
 #: admin/form-builder/class-wpuf-form-builder-field-settings.php:377
 #: admin/form-builder/class-wpuf-form-builder-field-settings.php:417
 msgid "- select -"
-msgstr "- seleccione -"
+msgstr "- выбрать -"
 
 #: admin/form-builder/class-wpuf-form-builder-field-settings.php:254
 #: admin/form-builder/class-wpuf-form-builder-field-settings.php:261
 msgid "Text"
-msgstr "Texto"
+msgstr "Текст"
 
 #: admin/form-builder/class-wpuf-form-builder-field-settings.php:327
 #: admin/template.php:398 admin/template.php:422 admin/template.php:454
 #: admin/template.php:486 templates/dashboard/posts.php:84
 #: templates/dashboard.php:37
 msgid "Options"
-msgstr "Opciones"
+msgstr "Опции"
 
 #: admin/form-builder/class-wpuf-form-builder-field-settings.php:332
 msgid "Add options for the form field"
@@ -428,13 +428,13 @@ msgstr "URL"
 
 #: admin/form-builder/class-wpuf-form-builder-field-settings.php:583
 msgid "Email Address"
-msgstr "Dirección de correo"
+msgstr "Email адрес"
 
 #: admin/form-builder/class-wpuf-form-builder-field-settings.php:590
 #: admin/html/form-settings-post.php:17 class/transactions-list-table.php:48
 #: includes/free/edit-user.php:152
 msgid "Email"
-msgstr "Correo"
+msgstr "Email"
 
 #: admin/form-builder/class-wpuf-form-builder-field-settings.php:625
 #: admin/template.php:582
