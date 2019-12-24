@@ -34,7 +34,7 @@ msgstr "Campos ocultos"
 
 #: admin/form-builder/assets/js/components/builder-stage/template.php:61
 msgid "key"
-msgstr "nombre"
+msgstr "ключ"
 
 #: admin/form-builder/assets/js/components/builder-stage/template.php:61
 msgid "value"
