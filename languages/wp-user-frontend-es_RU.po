@@ -76,11 +76,11 @@ msgstr "Seleccionar imagen"
 #: admin/form-builder/assets/js/components/form-post_content/template.php:4
 #: class/render-form.php:911
 msgid "Insert Photo"
-msgstr "Insertar imagen"
+msgstr "Вставить Фото"
 
 #: admin/form-builder/assets/js/components/form-taxonomy/template.php:12
 msgid "— Select —"
-msgstr "— Seleccione —"
+msgstr "— Выбрать —"
 
 #: admin/form-builder/assets/js/components/merge-tags/template.php:8
 msgid "Form Fields"
@@ -88,7 +88,7 @@ msgstr "Campos del Formulario"
 
 #: admin/form-builder/assets/js/components/merge-tags/template.php:16
 msgid "No fields available"
-msgstr "Sin campos disponibles"
+msgstr "Нет доступных полей"
 
 #: admin/form-builder/class-wpuf-admin-form-builder-ajax.php:29
 msgid "Unauthorized operation"
@@ -96,7 +96,7 @@ msgstr "Operación no permitida"
 
 #: admin/form-builder/class-wpuf-admin-form-builder-ajax.php:34
 msgid "Invalid form id"
-msgstr "Id de formulario inválido"
+msgstr "Недействительная форма id"
 
 #: admin/form-builder/class-wpuf-admin-form-builder.php:320
 msgid "Custom Fields"
