@@ -8,7 +8,7 @@
 **Stable tag:** 3.1.14  
 **License:** GPLv2  
 **License URI:** https://www.gnu.org/licenses/gpl-2.0.html  
-
+Попытка перевести на русский язык
 Frontend post submission, guest post, membership, login, registration and profile builder. The best frontend plugin for WordPress.
 
 ## Description ##
