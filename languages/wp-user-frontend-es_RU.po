@@ -18,19 +18,19 @@ msgstr ""
 
 #: admin/add-ons.php:2
 msgid "WP User Frontend - Add-Ons"
-msgstr "WP User Frontend - Extensiónes"
+msgstr "WP User Frontend - Плагин"
 
 #: admin/form-builder/assets/js/components/builder-stage/template.php:3
 msgid "Add fields by dragging the fields from the right sidebar to this area."
-msgstr "Añada campos arrastrándolos desde la derecha hasta esta área."
+msgstr "Добавьте поля, перетащив их из правой боковой панели в эту область."
 
 #: admin/form-builder/assets/js/components/builder-stage/template.php:30
 msgid "is available in Pro Version"
-msgstr "está disponible en la versión Pro"
+msgstr "доступно в версии Pro"
 
 #: admin/form-builder/assets/js/components/builder-stage/template.php:54
 msgid "Hidden Fields"
-msgstr "Campos ocultos"
+msgstr "Скрытые Поля"
 
 #: admin/form-builder/assets/js/components/builder-stage/template.php:61
 msgid "key"
@@ -38,22 +38,22 @@ msgstr "ключ"
 
 #: admin/form-builder/assets/js/components/builder-stage/template.php:61
 msgid "value"
-msgstr "valor"
+msgstr "Значение"
 
 #: admin/form-builder/assets/js/components/field-option-data/template.php:5
 #: admin/template.php:244
 msgid "Show values"
-msgstr "Mostrar valores"
+msgstr "Показать значения"
 
 #: admin/form-builder/assets/js/components/field-option-data/template.php:16
 #: admin/template.php:247 admin/template.php:305
 msgid "Label"
-msgstr "Etiqueta"
+msgstr "Метка"
 
 #: admin/form-builder/assets/js/components/field-option-data/template.php:20
 #: admin/template.php:247 admin/template.php:305
 msgid "Value"
-msgstr "Valor"
+msgstr "Значение"
 
 #: admin/form-builder/assets/js/components/field-option-data/template.php:64
 msgid "Clear Selection"
@@ -61,17 +61,17 @@ msgstr "Limpiar selección"
 
 #: admin/form-builder/assets/js/components/field-option-pro-feature-alert/template.php:4
 msgid "Available in Pro Version"
-msgstr "Disponible en la versión Pro"
+msgstr "Доступно в версии Pro"
 
 #: admin/form-builder/assets/js/components/field-select/template.php:7
 msgid "Select an option"
-msgstr "Seleccionar una opción"
+msgstr "Выбрать параметр"
 
 #: admin/form-builder/assets/js/components/form-featured_image/template.php:5
 #: admin/form-builder/assets/js/components/form-image_upload/template.php:5
 #: class/render-form.php:1490
-msgid "Select Image"
-msgstr "Seleccionar imagen"
+msgid "Sвыбор изображенияelect Image"
+msgstr ""
 
 #: admin/form-builder/assets/js/components/form-post_content/template.php:4
 #: class/render-form.php:911
